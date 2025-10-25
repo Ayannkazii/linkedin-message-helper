@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LinkedIn Message Helper (Selenium + Python) — Demo
 
 **Summary**
@@ -17,3 +18,7 @@ A demo Selenium script that interacts with LinkedIn message modals to send templ
    python -m venv venv
    source venv/bin/activate   # or venv\\Scripts\\activate on Windows
    pip install selenium
+=======
+# linkedin-message-helper
+Selenium + Python demo for sending messages to LinkedIn connections
+>>>>>>> b0dc5f76c08b16b89f85ca6ff10e8a38d4fc05dc
